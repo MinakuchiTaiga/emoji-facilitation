@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/my-emoji-picker/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/my-emoji-picker/static/js/main.65e7556a.chunk.js",
+    "main.js.map": "/my-emoji-picker/static/js/main.65e7556a.chunk.js.map",
+    "runtime-main.js": "/my-emoji-picker/static/js/runtime-main.5d92efb9.js",
+    "runtime-main.js.map": "/my-emoji-picker/static/js/runtime-main.5d92efb9.js.map",
+    "static/css/2.0b5987db.chunk.css": "/my-emoji-picker/static/css/2.0b5987db.chunk.css",
+    "static/js/2.7f642abf.chunk.js": "/my-emoji-picker/static/js/2.7f642abf.chunk.js",
+    "static/js/2.7f642abf.chunk.js.map": "/my-emoji-picker/static/js/2.7f642abf.chunk.js.map",
+    "static/js/3.8c743914.chunk.js": "/my-emoji-picker/static/js/3.8c743914.chunk.js",
+    "static/js/3.8c743914.chunk.js.map": "/my-emoji-picker/static/js/3.8c743914.chunk.js.map",
+    "index.html": "/my-emoji-picker/index.html",
+    "static/css/2.0b5987db.chunk.css.map": "/my-emoji-picker/static/css/2.0b5987db.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/my-emoji-picker/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.7f642abf.chunk.js.LICENSE.txt": "/my-emoji-picker/static/js/2.7f642abf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5d92efb9.js",
+    "static/css/2.0b5987db.chunk.css",
+    "static/js/2.7f642abf.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.65e7556a.chunk.js"
+  ]
+}
