@@ -25,10 +25,12 @@ class App extends React.Component {
 
     const onSelect = emoji => {
       //console.log({emoji});
-      alert(JSON.stringify(emoji));
+      //alert(JSON.stringify(emoji));
       console.log(emoji.native);
 
       this.setState({copiedEmoji: emoji.native});
+
+      alert(JSON.stringify(emoji.native) + "was copied now!");
 
 
       
@@ -38,9 +40,9 @@ class App extends React.Component {
     };
 
     return (
-      <div className="App">
-        <div>
-          <h1>emoji picker</h1>
+      <div className="App container">
+        <div className="mt-4">
+          
 
           <Picker
             onSelect={emoji => onSelect(emoji)}
@@ -65,11 +67,12 @@ class App extends React.Component {
           />
         </div>
 
-        <div>
-          <h1>Copied emoji</h1>
-          <div class="emojiList">
-            <Twemoji tag="span" options={{ className: 'test-twemoji'}}>{ this.state.copiedEmoji }</Twemoji>
+        <div className="copied container mt-3">
+          <div className="copiedTitle">
+            <h2 className="border-bottom">Copied emoji</h2>
           </div>
+
+          <Twemoji tag="span" options={{ className: 'test-twemoji'}}>{ this.state.copiedEmoji }</Twemoji>
         </div>
 
       </div>
@@ -133,7 +136,7 @@ class App extends React.Component {
 
 
     copyImageByClassName('test-twemoji');
-    console.log(this.state.copiedEmoji + "copied now!");
+    console.log(this.state.copiedEmoji + "was copied now!");
   }
   
 }

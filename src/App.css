@@ -36,3 +36,29 @@
     transform: rotate(360deg);
   }
 }
+
+.copied {
+  border: 1px solid #d9d9d9;
+  border-radius: 5px;
+  color: #222427;
+  width: 355px;
+  height: 127px;
+  font-family: Helvetica, sans-serif;
+  padding: 0;
+  background-color: #ffffff;
+}
+
+.copiedTitle h2 {
+  width: 353px;
+  margin: 0;
+  padding: 5px 0;
+  font-size: 20px;
+}
+
+.test-twemoji {
+  margin-top: 8px;
+}
+
+body {
+  background-color: #fafafa;
+}
