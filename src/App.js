@@ -41,6 +41,9 @@ class App extends React.Component {
 
     return (
       <div className="App container">
+
+        <img src={`${process.env.PUBLIC_URL}/logo.svg`} alt="Emoji Facilitation" className="mt-5" width="350px"/>
+        
         <div className="mt-4">
           
 
