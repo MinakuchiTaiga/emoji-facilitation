@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/my-emoji-picker/static/css/main.a259fade.chunk.css",
-    "main.js": "/my-emoji-picker/static/js/main.e6316130.chunk.js",
-    "main.js.map": "/my-emoji-picker/static/js/main.e6316130.chunk.js.map",
-    "runtime-main.js": "/my-emoji-picker/static/js/runtime-main.5d92efb9.js",
-    "runtime-main.js.map": "/my-emoji-picker/static/js/runtime-main.5d92efb9.js.map",
-    "static/css/2.0b5987db.chunk.css": "/my-emoji-picker/static/css/2.0b5987db.chunk.css",
-    "static/js/2.7f642abf.chunk.js": "/my-emoji-picker/static/js/2.7f642abf.chunk.js",
-    "static/js/2.7f642abf.chunk.js.map": "/my-emoji-picker/static/js/2.7f642abf.chunk.js.map",
-    "static/js/3.8c743914.chunk.js": "/my-emoji-picker/static/js/3.8c743914.chunk.js",
-    "static/js/3.8c743914.chunk.js.map": "/my-emoji-picker/static/js/3.8c743914.chunk.js.map",
-    "index.html": "/my-emoji-picker/index.html",
-    "static/css/2.0b5987db.chunk.css.map": "/my-emoji-picker/static/css/2.0b5987db.chunk.css.map",
-    "static/css/main.a259fade.chunk.css.map": "/my-emoji-picker/static/css/main.a259fade.chunk.css.map",
-    "static/js/2.7f642abf.chunk.js.LICENSE.txt": "/my-emoji-picker/static/js/2.7f642abf.chunk.js.LICENSE.txt"
+    "main.css": "/emoji-facilitation/static/css/main.a259fade.chunk.css",
+    "main.js": "/emoji-facilitation/static/js/main.51c4fb53.chunk.js",
+    "main.js.map": "/emoji-facilitation/static/js/main.51c4fb53.chunk.js.map",
+    "runtime-main.js": "/emoji-facilitation/static/js/runtime-main.ff123e5b.js",
+    "runtime-main.js.map": "/emoji-facilitation/static/js/runtime-main.ff123e5b.js.map",
+    "static/css/2.0b5987db.chunk.css": "/emoji-facilitation/static/css/2.0b5987db.chunk.css",
+    "static/js/2.7f642abf.chunk.js": "/emoji-facilitation/static/js/2.7f642abf.chunk.js",
+    "static/js/2.7f642abf.chunk.js.map": "/emoji-facilitation/static/js/2.7f642abf.chunk.js.map",
+    "static/js/3.8c743914.chunk.js": "/emoji-facilitation/static/js/3.8c743914.chunk.js",
+    "static/js/3.8c743914.chunk.js.map": "/emoji-facilitation/static/js/3.8c743914.chunk.js.map",
+    "index.html": "/emoji-facilitation/index.html",
+    "static/css/2.0b5987db.chunk.css.map": "/emoji-facilitation/static/css/2.0b5987db.chunk.css.map",
+    "static/css/main.a259fade.chunk.css.map": "/emoji-facilitation/static/css/main.a259fade.chunk.css.map",
+    "static/js/2.7f642abf.chunk.js.LICENSE.txt": "/emoji-facilitation/static/js/2.7f642abf.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.5d92efb9.js",
+    "static/js/runtime-main.ff123e5b.js",
     "static/css/2.0b5987db.chunk.css",
     "static/js/2.7f642abf.chunk.js",
     "static/css/main.a259fade.chunk.css",
-    "static/js/main.e6316130.chunk.js"
+    "static/js/main.51c4fb53.chunk.js"
   ]
 }
